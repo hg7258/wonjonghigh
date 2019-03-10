@@ -1,0 +1,8 @@
+.gradle
+.idea
+.DS_Store
+*.iml
+/build
+/app/build
+local.properties
+/app/src/main/java/wondang/icehs/kr/whdghks913/wondanghighschool/tool/PrivateCode.java

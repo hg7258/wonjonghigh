@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "631174351071",
+    "firebase_url": "https://wonjong-6995a.firebaseio.com",
+    "project_id": "wonjong-6995a",
+    "storage_bucket": "wonjong-6995a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631174351071:android:6bbb35ecff5fd907",
+        "android_client_info": {
+          "package_name": "wonjong.goehs.kr.bearmeat123.wjhighschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631174351071-djlshdp7d0cj37420dm32f6m5ivv53pt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7YYA0LJf3sspH2P4k4hZmhyXCIfUvQT4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
